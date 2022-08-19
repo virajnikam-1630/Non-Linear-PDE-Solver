@@ -21,4 +21,5 @@ Solving a given Partial Differential Equation (PDE) involves the following steps
         
      
 
+![me18b082_assgn_8_Q3](https://user-images.githubusercontent.com/108379478/185564264-a50d2d90-6625-41d5-8fd9-5d5c9ec16ed8.png)
 
