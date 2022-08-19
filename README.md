@@ -17,6 +17,8 @@ Solving a given Partial Differential Equation (PDE) involves the following steps
         iv. LU Decomposition
         v. Tri Diagonal
         vi. SOR
+  5. Plot the results as a surface plot (Using python)
+        
      
 
 
